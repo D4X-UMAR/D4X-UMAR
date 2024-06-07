@@ -24,7 +24,7 @@
 ***
 
 # CHECK MY BOT
-# | • => [GOLD-MD WHATSAPP BOT](https://github.com/D4X-UMA/GOLD-MD | • <=
+# | • => [GOLD-MD WHATSAPP BOT](https://github.com/D4X-UMA/GOLD-MD) | • <=
 ### CREATE A FORK
 ### GIVE A STAR TO THE REPO OF GOLD-MD
 ### DEPLOY ON HEROKU (FIXED)
